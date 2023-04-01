@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+IJw6a/1RlLsUvui+yZKS/aBso5PZSC1rkZyZLUGf97ftM17C3Jt0fIGrdYshFcptTGf+BWdQUDOXxBW/Db9A==",
+  "success": true,
+  "projectFilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/RazorPagesPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/limdohun/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/limdohun/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/limdohun/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.15/microsoft.netcore.app.host.osx-arm64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
