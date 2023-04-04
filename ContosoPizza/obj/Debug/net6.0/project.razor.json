@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/obj/Debug/net6.0/project.razor.json",
-  "FilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/RazorPagesPizza.csproj",
+  "SerializedFilePath": "/Users/limdohun/ASP.NET/ContosoPizza/obj/Debug/net6.0/project.razor.json",
+  "FilePath": "/Users/limdohun/ASP.NET/ContosoPizza/ContosoPizza.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,48 +18371,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "RazorPagesPizza",
-  "Documents": [
-    {
-      "FilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/Pages/_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/Pages/Pizza.cshtml",
-      "TargetPath": "Pages\\Pizza.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/Pages/Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/Pages/_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/limdohun/ASP.NET/RazorPagesPizza/Pages/Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    }
-  ],
+  "RootNamespace": "ContosoPizza",
+  "Documents": [],
   "SerializationFormat": "0.3"
 }
